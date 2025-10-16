@@ -1,0 +1,6 @@
+- Sorte e risco
+- O comportamento importa mais que a inteligência
+- O poder dos juros compostos
+- Independência financeira
+- Evite o exibicionismo financeiro
+- O desconhecido e o futuro
