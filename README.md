@@ -4,7 +4,7 @@
 <table width="100%">
   <tr>
     <td width="220px">
-      <img src="./capa_book1.png" alt="Capa do livro A Psicologia Financeira" width="220px">
+      <img src="./.gitbook/assets/capa_book1.png" alt="Capa do livro A Psicologia Financeira" width="220px">
     </td>
     <td>
       <p>
