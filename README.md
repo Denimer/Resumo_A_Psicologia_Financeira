@@ -1,5 +1,21 @@
 # 💰 A Psicologia Financeira — Morgan Housel
 
+
+<table width="100%">
+  <tr>
+    <td width="220px">
+      <img src="./capa_book1.png" alt="Capa do livro A Psicologia Financeira" width="220px">
+    </td>
+    <td>
+      <p>
+        <strong>A Psicologia Financeira</strong> explora como <strong>nossas emoções, crenças e comportamentos</strong> moldam a relação com o dinheiro.<br><br>
+        Morgan Housel mostra que <strong>inteligência e conhecimento técnico</strong> têm um papel menor do que <strong>disciplina, paciência e autoconhecimento</strong> quando o assunto é enriquecer e manter riqueza.<br><br>
+        O autor reúne <strong>20 lições curtas e poderosas</strong>, ilustradas com histórias reais, para explicar por que <strong>as pessoas tomam decisões financeiras tão diferentes mesmo com as mesmas informações</strong>.
+      </p>
+    </td>
+  </tr>
+</table>
+
 > “O sucesso financeiro não depende do que você sabe, mas de como você se comporta.”  
 > — *Morgan Housel*
 
