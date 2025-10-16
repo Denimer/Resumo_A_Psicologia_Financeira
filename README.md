@@ -96,3 +96,7 @@ Invista com segurança e se prepare para os imprevistos, porque o futuro é ince
 
 ```plaintext
 Comportamento → Hábitos → Tempo → Riqueza → Liberdade → Paz Mental
+```
+---
+**Resumo elaborado por _Dênimer Moraes_** \
+Em algum lugar do mundo - 2025
